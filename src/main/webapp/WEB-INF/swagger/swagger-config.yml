@@ -1,0 +1,8 @@
+springfox:
+  documentation:
+    swagger:
+      v3:
+        path: /api-docs
+  springfox:
+    api:
+      basePackage: com.example.clienteapi
